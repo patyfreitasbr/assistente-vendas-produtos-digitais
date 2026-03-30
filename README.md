@@ -2,7 +2,7 @@
 
 Transforme qualquer conversa em uma oportunidade de venda usando um sistema simples, estratégico e pronto para aplicar.
 
-Este projeto contém um **prompt estruturado** que funciona como um assistente de vendas, ajudando você a entender o cliente, construir ofertas e aumentar suas conversões — mesmo sem experiência em vendas.
+Este projeto contém um **prompt estruturado** que funciona como um assistente de vendas, ajudando você a entender o cliente, construir ofertas e aumentar suas conversões, mesmo sem experiência em vendas.
 
 
 ## O problema
